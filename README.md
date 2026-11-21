@@ -2,10 +2,10 @@
 
 ## Student and Project Information
 
-- Student name:
-- GitHub username:
-- Project title:
-- Application purpose:
+- Student name: Michael Padtha
+- GitHub username: Mpadtha123
+- Project title: Internship Application & Follow-Up Tracker
+- Application purpose: A program that helps students keep up with internship and job applications. a CSV file.
 
 ## How to Run the Application
 
